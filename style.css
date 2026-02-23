@@ -48,3 +48,7 @@ button {
 button:hover {
     background-color: rgb(34, 0, 255);
 }
+
+video {
+    margin-left: 470px;
+}
