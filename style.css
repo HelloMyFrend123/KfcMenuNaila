@@ -1,0 +1,50 @@
+.ad img {
+    width: 100%;
+}
+
+.chicken {
+    width: 300px;
+    height: 400px;
+}
+
+body {
+    background-color: rgb(161, 0, 0);
+    font-family: helvetica;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 50px;
+}
+
+p {
+    color: white;
+    font-size: 24px;
+}
+
+.buybutton {
+}
+
+button {
+    font-size: 30px;
+    padding: 20px 150px 20px 150px;
+    color: white;
+    background-color: red;
+    border: none;
+    transition: 1s;
+    margin-left: 450px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+button:hover {
+    background-color: rgb(34, 0, 255);
+}
